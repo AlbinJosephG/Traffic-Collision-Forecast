@@ -119,3 +119,19 @@ Annotated Video Output
 - Developed multi-horizon CNN-LSTM models to forecast potential traffic collisions using sequential vehicle movement features.
 - Achieved a previously reported **74.32% collision prediction mAP** 
 
+
+---
+
+## OUTPUT SCREENSHOTS
+
+### DASHBOARD
+<img width="1885" height="903" alt="image" src="https://github.com/user-attachments/assets/54c0c17d-73f6-4b5f-a8ec-0287445019a4" />
+<img width="1872" height="867" alt="image" src="https://github.com/user-attachments/assets/81be125c-f0b7-4e3f-8dad-4472a36fb387" />
+
+### COLLISION RESULT
+
+https://github.com/user-attachments/assets/1e962d2c-f45c-4583-8117-740a5f15d695
+
+### NON COLLISION RESULT
+
+
