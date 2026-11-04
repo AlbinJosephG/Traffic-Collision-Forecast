@@ -132,7 +132,7 @@ Annotated Video Output
 
 https://github.com/user-attachments/assets/1e962d2c-f45c-4583-8117-740a5f15d695
 
-### NON COLLISION RESULT
+### NO COLLISION RESULT
 
 https://github.com/user-attachments/assets/11589a6d-cb09-4616-94e5-d4a721c6d481
 
